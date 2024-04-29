@@ -1,0 +1,11 @@
+2023-12-14 14:30:04,978 - INFO - Log file created/accessed at 2023-12-14 14:30:04.978251
+2023-12-14 14:30:05,136 - INFO - Connected to the database at 2023-12-14 14:30:05.136794
+2023-12-14 14:30:05,136 - ERROR - An error occurred in the main function: 'Engine' object does not support the context manager protocol
+2023-12-14 14:30:05,151 - INFO - Finished running at 2023-12-14 14:30:05.151369
+2023-12-14 14:33:52,951 - INFO - Log file created/accessed at 2023-12-14 14:33:52.951221
+2023-12-14 14:33:52,972 - INFO - Connected to the database at 2023-12-14 14:33:52.972979
+2023-12-14 14:33:55,677 - INFO - Got state crimes data
+2023-12-14 14:33:56,711 - INFO - Got agency information
+2023-12-14 14:34:17,208 - INFO - Got agency crimes data
+2023-12-14 14:34:20,577 - INFO - Succesfully plotted!
+2023-12-14 14:34:20,577 - INFO - Finished running at 2023-12-14 14:34:20.577275
