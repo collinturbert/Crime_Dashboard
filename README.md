@@ -1,6 +1,6 @@
 # Crime Dashboard
  
-The purpose of this project was to get more comfortable using PostgreSQL and additional practice with Power BI. It calls the FBI API and gathers data about crimes in Colorado for use in a Power BI dashboard.
+The purpose of this project was to get more comfortable using PostgreSQL and additional practice with Power BI. It also implements several machine learning algorithms for data exploration and diagnostic analytics. It calls the FBI API and gathers data about crimes in Colorado for use in a Power BI dashboard.
 
 Tools
  1.	PostgreSQL
